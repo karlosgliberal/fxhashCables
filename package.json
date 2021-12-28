@@ -1,9 +1,9 @@
 {
-  "name": "fxhash-boilerplate-webpack",
+  "name": "fxhash-boilerplate-webpack-for-cables",
   "version": "1.0.0",
   "description": "a boilerplate to create a generative token on fxhash",
   "main": "index.js",
-  "author": "fxhash",
+  "author": "karlosgliberal",
   "license": "MIT",
   "scripts": {
     "build": "webpack --config ./config/webpack.config.prod.js",
